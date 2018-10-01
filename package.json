@@ -1,0 +1,26 @@
+{
+  "name": "lightspeed-devtools",
+  "version": "1.0.0",
+  "description": "Must have tools and scripts for Lightspeed developers.",
+  "keywords": [
+    "lightspeed",
+    "tools"
+  ],
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Toby Denhaerinck",
+  "license": "ISC",
+  "bin": {
+    "lightspeed": "./bin/lightspeed.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "nightmare": "^3.0.1",
+    "nopt": "^4.0.1",
+    "vo": "^4.0.2",
+    "yesno": "0.0.1"
+  }
+}
