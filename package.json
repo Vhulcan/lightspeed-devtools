@@ -1,6 +1,6 @@
 {
   "name": "lightspeed-devtools",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Must have tools and scripts for Lightspeed developers.",
   "keywords": [
     "lightspeed",
@@ -11,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "homepage": "https://github.com/Vhulcan/lightspeed-devtools",
-  "author": "Toby Denhaerinck",
+  "author": "Toby Denhaerinck (@Vhulcan)",
   "license": "MIT",
   "bin": {
     "lightspeed": "./bin/lightspeed.js"
