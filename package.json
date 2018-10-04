@@ -10,8 +10,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "https://github.com/Vhulcan/lightspeed-devtools",
   "author": "Toby Denhaerinck",
-  "license": "ISC",
+  "license": "MIT",
   "bin": {
     "lightspeed": "./bin/lightspeed.js"
   },

@@ -1,6 +1,7 @@
 # Lightspeed Developer Tools
 
-UNDER PROGRESS
+WORK IN PROGRESS!
+
 
 ## Installation
 
