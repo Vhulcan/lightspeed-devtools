@@ -8,5 +8,13 @@ UNDER PROGRESS
 npm install lightspeed-devtools -g
 ```
 
-## Commands
+## Configuration
 
+```bash
+lightspeed init
+```
+
+## Commands
+```bash
+lightspeed pull [test|production]
+```
