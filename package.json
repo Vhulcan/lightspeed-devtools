@@ -18,9 +18,11 @@
   },
   "preferGlobal": true,
   "dependencies": {
+    "express": "4.16.4",
     "fs-extra": "^7.0.0",
     "nightmare": "^3.0.1",
     "nopt": "^4.0.1",
+    "twig": "1.13.0",
     "yesno": "0.0.1"
   }
 }
