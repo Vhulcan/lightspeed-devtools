@@ -34,6 +34,9 @@ Make sure to add some context variables in your `lightspeed.json` config (test c
 lightspeed start
 ```
 
+Note: It make take you some time to get this to work since this local Twig engine is different then that from Lightspeed! You might have to comment out includes for templates like `{% include 'blocks/xx.rain' %}`.
+
+
 ## Coming soon
 
 The following commands are still in development. 
